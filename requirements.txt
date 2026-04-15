@@ -1,0 +1,21 @@
+# Axioma-Omega Protocol — Dependencies
+# ES: Solo instala lo que uses. El protocolo NO requiere todas las dependencias.
+# EN: Only install what you use. The protocol does NOT require all dependencies.
+
+# --- Para testing (sin LLM externo) / For testing (no external LLM) ---
+# (sin dependencias adicionales)
+
+# --- Ollama / OpenAI / LM Studio ---
+# openai>=1.0
+
+# --- Google Gemini ---
+# google-generativeai>=0.5
+
+# --- Anthropic Claude ---
+# anthropic>=0.25
+
+# --- HuggingFace ---
+# huggingface-hub>=0.20
+
+# --- HTTP genérico / Generic HTTP ---
+# requests>=2.31

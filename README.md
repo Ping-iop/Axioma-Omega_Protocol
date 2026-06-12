@@ -10,8 +10,17 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![AI Providers](https://img.shields.io/badge/AI%20Providers-7-blueviolet)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Evolution](https://img.shields.io/badge/Evolution-Omega--Cube_Engine-blue)
 
 </div>
+
+---
+
+## 🧲 Este proyecto evolucionó → [Omega-Cube Engine](https://github.com/Ping-iop/omega-cube-engine)
+
+**Axioma-Omega** es la raíz académica: validación deductiva con veto axiomático.  
+**Omega-Cube** es la evolución: 9 innovaciones — Tensor Hierarchies, Holographic Encoding, Quantum Annealing, Diffusion Sampling, Gray-Scale Validation, AutoResearch, PredictiveContextSearch (100% vs 50% flat), CollectiveEvolution, ProbabilisticHierarchy (4-layer Bayesian).  
+📄 Paper · 🧪 Benchmarks · 🔓 Open source
 
 ---
 
@@ -150,7 +159,7 @@ sequenceDiagram
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/axioma-omega-protocol
+git clone https://github.com/Ping-iop/Axioma-Omega_Protocol
 cd axioma-omega-protocol
 
 # Dependencias base (sin proveedor de IA)
